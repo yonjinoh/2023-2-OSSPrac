@@ -1,4 +1,4 @@
-print("Hello World~~~!")
+print("Hello World!")
 name = 'Kilsup Lee'
 print('I am {0}'.format(name))
 programming_language = 'Python'
